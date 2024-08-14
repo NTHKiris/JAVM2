@@ -1,0 +1,51 @@
+iconst 10
+iconst 20
+iadd
+top
+istore a
+fconst 15.5
+fconst 4.5
+fsub
+top
+fstore b
+iload a
+iconst 2
+imul
+top
+istore c
+fconst 5.5
+fload b
+fdiv
+top
+fstore d
+iconst 5
+iconst 2
+irem
+top
+istore f
+iconst 10
+ineg
+top
+istore g
+fconst 3.3
+fneg
+top
+fstore h
+val a
+val b
+par c
+iconst 4
+i2f
+top
+fconst 1.1
+fadd
+top
+iconst 1
+i2f
+top
+fconst 1.0
+fneq
+top
+iconst 7
+iconst 0
+idiv

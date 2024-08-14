@@ -1,0 +1,59 @@
+iconst 12
+top 
+iconst 5
+top 
+isub 
+top 
+istore 0
+iconst 10
+top 
+iconst 3
+top 
+idiv 
+top 
+istore 2
+iload 0
+top 
+iload 2
+top 
+iadd 
+top 
+fconst 4.5
+top 
+f2i 
+top 
+ior 
+top 
+iconst 5
+top 
+imul 
+top 
+istore 4
+iconst 8
+top 
+ibnot 
+top 
+istore 6
+iload 6
+top 
+iconst 1
+top 
+iand 
+top 
+iconst 1
+top 
+ineg 
+top 
+iadd 
+top 
+iconst 17
+top 
+iconst 5
+top 
+irem 
+top 
+fconst 1.5
+top 
+iconst 3
+top 
+iadd

@@ -1,0 +1,5 @@
+15.5
+3
+24
+24
+Undefined variable: line 15

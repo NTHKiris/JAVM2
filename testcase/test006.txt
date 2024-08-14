@@ -1,0 +1,32 @@
+iconst 10
+istore a
+iconst 5
+istore b
+iload a
+iload b
+iadd
+top
+fconst 2.5
+fstore c
+fload c
+top
+iload a
+iload b
+isub
+top
+iload a
+iload b
+imul
+top
+iconst 2
+idiv
+top
+iconst 14
+iconst 3
+irem
+top
+ineg
+top
+fconst 1.5
+f2i
+top

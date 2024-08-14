@@ -1,0 +1,50 @@
+Processing line 1: fconst 996
+Local Variables:
+Operand Stack: <996,1>
+Processing line 2: iconst 233
+Local Variables:
+Operand Stack: <996,1, 233,0>
+Processing line 3: fconst 757
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1>
+Processing line 4: fconst 577
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1>
+Processing line 5: fconst 617
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1>
+Processing line 6: iconst 34
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0>
+Processing line 7: fconst 142
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1>
+Processing line 8: iconst 850
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1, 850,0>
+Processing line 9: fconst 301
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1, 850,0, 301,1>
+Processing line 10: iconst 563
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1, 850,0, 301,1, 563,0>
+Processing line 11: iconst 688
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1, 850,0, 301,1, 563,0, 688,0>
+Processing line 12: iconst 597
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1, 850,0, 301,1, 563,0, 688,0, 597,0>
+Processing line 13: fconst 958
+Local Variables:
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1, 850,0, 301,1, 563,0, 688,0, 597,0, 958,1>
+Processing line 14: fstore lAg
+Local Variables:
+├─lAg 958 (float)
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1, 850,0, 301,1, 563,0, 688,0, 597,0>
+Processing line 15: istore oVJ
+Local Variables:
+├─lAg 958 (float)
+│  └─oVJ 597 (int)
+Operand Stack: <996,1, 233,0, 757,1, 577,1, 617,1, 34,0, 142,1, 850,0, 301,1, 563,0, 688,0>
+Processing line 16: fstore hQY
+Type mismatch: line 16

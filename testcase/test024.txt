@@ -1,0 +1,9 @@
+iconst 5
+iconst 10
+igt 
+top 
+fconst 3.5
+iconst 3
+fgt 
+top 
+val 0

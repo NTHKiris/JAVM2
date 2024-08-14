@@ -1,0 +1,25 @@
+iconst 8
+iconst 12
+iadd
+top
+fconst 4.5
+fconst 2.3
+fsub
+top
+fstore y
+fconst 5.5
+fconst 3.5
+fdiv
+top
+fconst 9.0
+fconst 1.0
+fsub
+top
+f2i
+istore z
+val y
+val z
+fload y
+iload z
+fadd
+top

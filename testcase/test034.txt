@@ -1,0 +1,63 @@
+fconst 10.5
+fconst 20.7
+fadd
+top
+fconst 5.0
+fmul
+top
+iconst 3
+iconst 2
+iadd
+top
+iconst 5
+idiv
+top
+fconst 0.0
+f2i
+ibnot
+top
+fdiv
+top
+iconst 1
+iconst 1
+ior
+top
+iconst 0
+iand
+top
+iconst 8
+ineg
+top
+fconst 3.0
+fconst 4.0
+flt
+top
+fconst 2.5
+fconst 2.5
+feq
+top
+iconst 7
+iconst 3
+irem
+top
+iconst 4
+iconst 2
+ilt
+top
+fconst 1.0
+iconst 3
+fconst 4.0
+fneg
+top
+iconst 6
+iconst 3
+imod
+top
+istore y
+val y
+par y
+iload y
+i2f
+fstore b
+val b
+par b

@@ -1,0 +1,21 @@
+iconst 3
+iconst 1
+ior
+top
+iconst 6
+iconst 2
+iand
+top
+iconst 1
+iconst 0
+ieq
+top
+iconst 7
+ineg
+top
+istore n
+iconst 10
+istore m
+par n
+par m
+iload a

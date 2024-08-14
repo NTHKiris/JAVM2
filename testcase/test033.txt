@@ -1,0 +1,15 @@
+iconst 10
+i2f
+fconst 5.5
+fadd
+top
+fconst 3.0
+f2i
+top
+iconst 4
+fconst 6.0
+fmul
+top
+f2i
+top
+val b

@@ -1,0 +1,5 @@
+iconst 20
+istore parent
+iconst 10
+istore child
+par child

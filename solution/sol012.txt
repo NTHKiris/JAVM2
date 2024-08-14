@@ -1,0 +1,2 @@
+1
+Stack empty: line 4

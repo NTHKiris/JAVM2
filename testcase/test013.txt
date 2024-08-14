@@ -1,0 +1,6 @@
+iconst 3
+top
+iconst 4
+top
+iadd
+top

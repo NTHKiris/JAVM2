@@ -1,0 +1,13 @@
+fconst 2.5
+fconst 4.2
+fadd
+top
+fconst 1.2
+fsub
+top
+fconst 3.0
+fmul
+top
+fconst 2.0
+fdiv
+top

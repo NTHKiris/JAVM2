@@ -1,0 +1,34 @@
+iconst 5000
+istore i5000
+iload i5000
+val i5000
+par i5000
+i2f
+fstore f5000
+iload i5000
+val f5000
+par f5000
+fload f5000
+f2i
+iadd
+istore i5000
+val i5000
+par i5000
+iload i5000
+fload f5000
+iconst 2
+fmul
+top
+fsub
+top
+f2i
+ibnot
+top
+istore ibnot_res_1
+iconst 0
+istore i5000
+val i5000
+fconst 0
+fstore f5000
+val f5000
+istore exeption

@@ -1,0 +1,14 @@
+iconst 1
+top
+istore 0
+top
+iconst 0
+top
+istore 2
+top
+iload 0
+top
+iload 2
+top
+iand
+top

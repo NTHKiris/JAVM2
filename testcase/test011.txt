@@ -1,0 +1,20 @@
+iconst 5
+top
+istore x
+val x
+fconst 3.5
+top
+fstore y
+val y
+par y
+iload x
+fload y
+top
+f2i
+top
+iadd
+top
+istore x
+val x
+par x
+iload y

@@ -1,0 +1,11 @@
+5
+5
+3.5
+3.5
+x
+3.5
+3
+8
+8
+null
+Type mismatch: line 20

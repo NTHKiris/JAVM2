@@ -1,0 +1,6 @@
+iconst 10
+top
+iconst 0
+top
+idiv
+top

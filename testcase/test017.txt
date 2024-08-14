@@ -1,0 +1,6 @@
+iconst 6
+top
+iconst 3
+top
+ior
+top

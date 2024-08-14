@@ -1,0 +1,6 @@
+iconst 5
+istore 0
+val 0
+fconst 3.5
+fstore 2
+val 2

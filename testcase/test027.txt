@@ -1,0 +1,50 @@
+iconst 500
+top
+istore 0
+val 0
+fconst -1250
+top
+fstore 2
+val 2
+fload 2
+top
+iload 0
+top
+i2f
+fdiv
+top
+f2i
+top
+iconst 2
+iadd
+top
+fconst 3.14
+top
+fmul
+top
+f2i
+ibnot
+istore 254
+val 254
+iconst 0
+top
+fconst -2024.233
+top
+fconst -1234
+fconst 2345
+fconst -3456
+fstore 0
+fstore 2
+fstore 4
+fstore 6
+istore 8
+val 0
+val 2
+val 4
+val 6
+val 8
+fload 6
+top
+iload 8
+top
+fdiv

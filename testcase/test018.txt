@@ -1,0 +1,4 @@
+iconst 6
+top
+ibnot
+top

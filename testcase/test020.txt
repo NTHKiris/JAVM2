@@ -1,0 +1,8 @@
+fconst 3.5
+top
+fneg
+top
+fconst -3.5
+top
+feq
+top

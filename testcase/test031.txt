@@ -1,0 +1,30 @@
+iconst 5
+istore x
+fconst 7.5
+fstore y
+iload x
+iload x
+imul
+fload y
+fload y
+fmul
+f2i
+iadd
+top
+val x
+val y
+fconst 2.0
+fconst 4.0
+fdiv
+top
+fstore zero
+iconst 3
+iload x
+iadd
+istore z
+par z
+iload z
+top
+fload zero
+f2i
+idiv

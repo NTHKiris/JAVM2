@@ -1,0 +1,14 @@
+iconst 2
+top
+iconst 3
+top
+imul
+top
+iconst 5
+top
+isub
+top
+iconst 10
+top
+idiv
+top

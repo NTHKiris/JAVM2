@@ -1,0 +1,10 @@
+iconst 6
+iconst 3
+iand
+top
+iconst 4
+ior
+top
+iconst 0
+ibnot
+top

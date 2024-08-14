@@ -1,0 +1,65 @@
+Processing line 1: iconst 4
+Local Variables:
+Operand Stack: <4,0>
+Processing line 2: top
+4
+Local Variables:
+Operand Stack: <4,0>
+Processing line 3: iconst 2
+Local Variables:
+Operand Stack: <4,0, 2,0>
+Processing line 4: top
+2
+Local Variables:
+Operand Stack: <4,0, 2,0>
+Processing line 5: imul
+Local Variables:
+Operand Stack: <8,0>
+Processing line 6: top
+8
+Local Variables:
+Operand Stack: <8,0>
+Processing line 7: iconst 5
+Local Variables:
+Operand Stack: <8,0, 5,0>
+Processing line 8: top
+5
+Local Variables:
+Operand Stack: <8,0, 5,0>
+Processing line 9: isub
+Local Variables:
+Operand Stack: <3,0>
+Processing line 10: top
+3
+Local Variables:
+Operand Stack: <3,0>
+Processing line 11: fconst 2.5
+Local Variables:
+Operand Stack: <3,0, 2.5,1>
+Processing line 12: top
+2.5
+Local Variables:
+Operand Stack: <3,0, 2.5,1>
+Processing line 13: fconst 1.5
+Local Variables:
+Operand Stack: <3,0, 2.5,1, 1.5,1>
+Processing line 14: top
+1.5
+Local Variables:
+Operand Stack: <3,0, 2.5,1, 1.5,1>
+Processing line 15: fadd
+Local Variables:
+Operand Stack: <3,0, 4,1>
+Processing line 16: top
+4
+Local Variables:
+Operand Stack: <3,0, 4,1>
+Processing line 17: f2i
+Local Variables:
+Operand Stack: <3,0, 4,0>
+Processing line 18: top
+4
+Local Variables:
+Operand Stack: <3,0, 4,0>
+Processing line 19: istore 0
+Type mismatch: line 19

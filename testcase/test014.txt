@@ -1,0 +1,6 @@
+fconst 2.5
+top
+fconst 1.5
+top
+fadd
+top

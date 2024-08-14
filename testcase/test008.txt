@@ -1,0 +1,9 @@
+iconst 10
+iconst 2
+iadd
+iconst 5
+iconst 3
+fadd
+f2i
+iconst 0
+idiv

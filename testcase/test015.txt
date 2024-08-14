@@ -1,0 +1,10 @@
+iconst 5
+top
+i2f
+top
+fconst 2.5
+top
+fadd
+top
+f2i
+top

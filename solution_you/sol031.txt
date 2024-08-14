@@ -1,0 +1,7 @@
+81
+5
+7.5
+0.5
+zero
+8
+Divide by zero: line 30

@@ -1,0 +1,18 @@
+iconst 5
+istore 0
+iconst 3
+istore 2
+fconst 3.5
+fstore 4
+iload 0
+top 
+iload 2
+top 
+iadd 
+top 
+fload 4
+top 
+f2i 
+top 
+iadd 
+val 2

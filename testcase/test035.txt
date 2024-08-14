@@ -1,0 +1,74 @@
+fconst 10.5
+fconst 20.7
+fadd
+top
+fstore a
+val a
+fconst 5.0
+fstore c
+val c
+iconst 3
+iconst 2
+iadd
+top
+istore b
+iconst 6
+iconst 2
+idiv
+top
+istore d
+val d
+iconst 1
+iconst 1
+ior
+top
+istore e
+val e
+iconst 0
+top
+istore f
+val f
+iconst 8
+ineg
+top
+istore g
+val g
+fconst 3.0
+fconst 4.0
+flt
+top
+fconst 2.5
+fconst 2.5
+feq
+top
+iconst 7
+iconst 3
+irem
+top
+istore h
+val h
+iconst 4
+iconst 2
+ilt
+top
+fconst 1.0
+fstore i
+val i
+iconst 3
+ieq
+top
+fconst 4.0
+fneg
+top
+iconst 6
+iconst 3
+irem
+top
+istore j
+val a
+val b
+par b
+iconst 2
+fconst 2.0
+fadd
+top
